@@ -78,8 +78,3 @@ Please create JUnit tests with 85% coverage for your program.
 ## Javadoc
 Fill in the Javadoc comments and generate a Javadoc HTML reference for your program.
 
-## Rubric
-8 points – All requested items are present. Functional `Hangman.java`, `HangmanGame.java`, and `Dictionary.java` class as described above. Javadoc reference for the class. JUnit tests with a coverage report of at least 85%.
-6 points – Some of the requested items are missing. Classes are complete but are missing Javadoc reference. Test cases are missing or incomplete.
-4 points – Missing or incomplete. Student should re-attempt
-
